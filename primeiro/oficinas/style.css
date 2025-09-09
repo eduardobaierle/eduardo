@@ -1,0 +1,44 @@
+* {
+    margin: 0
+}
+
+body {
+    background-image:linear-gradient(90deg, #033F63, #28666E) ;
+}
+
+.links {
+    background-color: #ceceb5e3;
+    width: 20%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+header {
+    background-color: #fff3dc;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    border-radius: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: #033F63;
+    margin-top: 10px;
+}
+
+li #pad {
+    margin-top: 0;
+}
+
+li {
+    list-style-type: none;
+    padding-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    padding-left: 26.5%;
+}
